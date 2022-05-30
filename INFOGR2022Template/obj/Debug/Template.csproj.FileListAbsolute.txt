@@ -9,3 +9,14 @@ C:\Users\Admin\Downloads\INFOGR2022Template\obj\Debug\Template.csproj.CoreCompil
 C:\Users\Admin\Downloads\INFOGR2022Template\obj\Debug\Template.csproj.CopyComplete
 C:\Users\Admin\Downloads\INFOGR2022Template\obj\Debug\INFOGR2022Template.exe
 C:\Users\Admin\Downloads\INFOGR2022Template\obj\Debug\INFOGR2022Template.pdb
+C:\Users\Admin\Downloads\infogr\INFOGR2022Template\bin\Debug\INFOGR2022Template.exe.config
+C:\Users\Admin\Downloads\infogr\INFOGR2022Template\bin\Debug\INFOGR2022Template.exe
+C:\Users\Admin\Downloads\infogr\INFOGR2022Template\bin\Debug\INFOGR2022Template.pdb
+C:\Users\Admin\Downloads\infogr\INFOGR2022Template\bin\Debug\OpenTK.dll
+C:\Users\Admin\Downloads\infogr\INFOGR2022Template\bin\Debug\OpenTK.pdb
+C:\Users\Admin\Downloads\infogr\INFOGR2022Template\bin\Debug\OpenTK.xml
+C:\Users\Admin\Downloads\infogr\INFOGR2022Template\obj\Debug\Template.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\infogr\INFOGR2022Template\obj\Debug\Template.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\infogr\INFOGR2022Template\obj\Debug\Template.csproj.CopyComplete
+C:\Users\Admin\Downloads\infogr\INFOGR2022Template\obj\Debug\INFOGR2022Template.exe
+C:\Users\Admin\Downloads\infogr\INFOGR2022Template\obj\Debug\INFOGR2022Template.pdb

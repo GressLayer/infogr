@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Template
 {
-    class Raytracer
+    class Sphere : Primitive
     {
     }
 }

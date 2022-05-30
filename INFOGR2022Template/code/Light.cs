@@ -6,8 +6,9 @@ using System.Threading.Tasks;
 
 namespace Template
 {
-    public class Scene
+    class Light
     {
-
+        Vector3 location;
+        Vector3 intensity;
     }
 }
