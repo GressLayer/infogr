@@ -6,7 +6,19 @@ using System.Threading.Tasks;
 
 namespace Template
 {
-    class Sphere : Primitive
+    public class Sphere : Primitive
     {
+        Vector3 origin;
+        float radius;
+
+        public Vector3 Origin { get{ return origin; } }
+        public float Radius { get { return radius; } }
+
+        // Sphere constructor takes three float values for the origin and a float for the radius.
+        public Sphere(float x, float y, float z, float r)
+        {
+            origin = new Vector3(x, y, z);
+            radius = r;
+        }
     }
 }

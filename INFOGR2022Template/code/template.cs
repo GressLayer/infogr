@@ -35,7 +35,7 @@ namespace Template
 			GL.Hint( HintTarget.PerspectiveCorrectionHint, HintMode.Nicest );
 			ClientSize = new Size( 512, 384 );
 			app = new Application();
-			app.screen = new Surface( Width, Height );
+			app.screen = new Surface(Width, Height);
 			Sprite.target = app.screen;
 			screenID = app.screen.GenTexture();
 			app.Init();
