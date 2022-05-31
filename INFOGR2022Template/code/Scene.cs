@@ -6,7 +6,12 @@ using System.Threading.Tasks;
 
 namespace Template
 {
-    class Scene
+    public class Scene
     {
+        public List<Sphere> spheres;
+
+        public Scene()
+        {
+        }
     }
 }

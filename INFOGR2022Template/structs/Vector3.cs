@@ -45,5 +45,20 @@ namespace Template
         {
             return new Vector3(X * multiplier, Y * multiplier, Z * multiplier);
         }
+
+        // Returns the dot product of the main vector and the parameter vector.
+        public float DotProduct(Vector3 vector)
+        {
+            return (X * vector.X) + (Y * vector.Y) + (Z * vector.Z);
+        }
+
+        // Returns the length of the vector.
+        public float Length()
+        {
+            return (float)Math.Sqrt(X * X + Y * Y + Z * Z);
+        }
+
+        // A static property to more easily instantiate a Vector3 where all values are 0.
+        public static Vector3 Zero { get { return new Vector3(0, 0, 0); } }
     }
 }

@@ -48,7 +48,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="code\Ray.cs" />
-    <Compile Include="code\Raytracer.cs" />
     <Compile Include="code\Intersection.cs" />
     <Compile Include="code\Scene.cs" />
     <Compile Include="code\Light.cs" />

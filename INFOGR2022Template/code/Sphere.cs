@@ -15,10 +15,10 @@ namespace Template
         public float Radius { get { return radius; } }
 
         // Sphere constructor takes three float values for the origin and a float for the radius.
-        public Sphere(float x, float y, float z, float r)
+        public Sphere(Vector3 org, float rad)
         {
-            origin = new Vector3(x, y, z);
-            radius = r;
+            origin = org;
+            radius = rad;
         }
     }
 }

@@ -8,5 +8,9 @@ namespace Template
 {
     public class Primitive
     {
+        public Primitive()
+        {
+
+        }
     }
 }

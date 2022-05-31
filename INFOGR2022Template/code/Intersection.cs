@@ -8,5 +8,9 @@ namespace Template
 {
     class Intersection
     {
+        bool IntersectsSphere(Sphere sphere, Ray ray)
+        {
+            return true;
+        }
     }
 }
